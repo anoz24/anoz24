@@ -17,7 +17,7 @@
 
 
 
-<p>I'm Anas Essam<br><br>- Currently learning Flutter<br></p>
+<p>I'm Anas Essam<br><br>- Mobile and Backend Lover<br></p>
 
 
 
@@ -29,6 +29,10 @@
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="python logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="python logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
   <img width="2" />
